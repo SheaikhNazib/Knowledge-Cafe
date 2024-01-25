@@ -9,7 +9,6 @@ const Sidebar = (props) => {
 
     let bookmarked = '';
     for (const spentTime of markedBlog) {
-        // totalTime += spentTime.readTime;
         bookmarked += spentTime.blogTitle + '\n' + '\n';
     }
     let totalTime = 0;

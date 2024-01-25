@@ -37,6 +37,12 @@ const Body = () => {
                 }
             </div>
             <Sidebar markedBlog={markedBlog} spentTime={spentTime}></Sidebar>
+            <div>
+                <h3>1. What is the difference between props and state?</h3>
+                <p>Props is used for sending data one component to another component. State is used for local data storage of a component</p>
+
+                
+            </div>
         </div>
     );
 };

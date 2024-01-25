@@ -4,41 +4,9 @@
     gap: 10px;
 }
 
-/* .spent-time-container {
-    border: 1px solid #6047EC;
-    border-radius: 8px;
-    background: rgba(96, 71, 236, 0.10);
-    margin-bottom: 16px;
+@media screen and (max-width: 768px) {
+    .body-container {
+        display: flex;
+        flex-direction: column;
+    }
 }
-
-.spent-time {
-    color: #6047EC;
-    font-size: 24px;
-    font-weight: 700;
-    text-align: center;
-}
-
-.bookmark-container {
-    border-radius: 8px;
-    background: rgba(17, 17, 17, 0.05);
-    padding: 30px;
-}
-
-.bookmarked-heading {
-    font-size: 24px;
-    font-weight: 700px;
-    color: black;
-    margin: 0;
-
-}
-
-.bookmarked-title-container {
-    border-radius: 8px;
-    background: #FFF;
-}
-
-.bookmarked-title {
-    font-size: 18px;
-    font-weight: 600;
-    padding: 20px;
-} */
