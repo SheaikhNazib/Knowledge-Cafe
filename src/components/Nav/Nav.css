@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar h2{
+    margin:0px;
+}
+.heading {
+    font-size: 40px;
+    font-weight: 700;
+}
+hr{
+    margin-top: 50px;
+    margin-bottom: 32px;
+}
