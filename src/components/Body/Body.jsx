@@ -44,7 +44,8 @@ const Body = () => {
                 <h3>2. How useState work?</h3>
                 <p>useState takes two value. First one is state variable for it's argument and the second value set the state.</p>
 
-                
+                <h3>3. What is the uses of useEffect without data load?</h3>
+                <p>Validating input field,live filtering, update paragraph list on fetched API data update etc</p>
             </div>
         </div>
     );
