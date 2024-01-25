@@ -46,6 +46,9 @@ const Body = () => {
 
                 <h3>3. What is the uses of useEffect without data load?</h3>
                 <p>Validating input field,live filtering, update paragraph list on fetched API data update etc</p>
+
+                <h3>4. How does react work?</h3>
+                <p>Instead of manipulating the browser's DOM directly, React creates a virtual DOM in memory, where it does all the necessary manipulating, before making the changes in the browser DOM.</p>
             </div>
         </div>
     );
